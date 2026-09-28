@@ -26,24 +26,24 @@ This repository contains sequential Java source code solutions and lab practice 
 | Lecture # | Folder | Topic Summary 
 |:---:|:---|:---
 | 01 | [`one`](./Main.java/) | Hello World & basic print output 
-| 02 | [`two`](./two/) | Standard output & escape sequences (`\n`, `\t`) 
-| 03 | [`three`](./three/) | Variable declaration & `double` primitive type
-| 04 | [`four`](./four/) | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations 
-| 05 | [`five`](./five/) | `if-else` branching & logical OR (`\|\|`) condition check 
-| 06 | [`six`](./six/) | `else-if` ladder (Age category classifier) 
-| 07 | [`seven`](./seven/) | `switch-case` control flow with expressions 
-| 08 | [`eight`](./eight/) | Pre-increment (`++x`) vs Post-increment (`x++`) behavior 
-| 09 | [`nine`](./nine/) | `for` loop with conditional divisibility check (`% 3` and `% 5`)
-| 10 | [`ten`](./ten/) | `while` loop for stepped series summation 
-| 11 | [`eleven`](./eleven/) | `do-while` loop structure & increment 
-| 12 | [`twelve`](./twelve/) | Nested loops for inverted right-triangle pattern 
-| 13 | [`thirteen`](./thirteen/) | 1D Array creation, indexing, access and updates 
-| 14 | [`fourteen`](./fourteen/) | 2D Array matrix traversal, sum and average calculation 
-| 15 | [`fifteen`](./fifteen/) | String class methods (`length`, `toUpperCase`, `toLowerCase`, `charAt`, `equals`) 
-| 16 | [`sixteen`](./sixteen/) | String splitting (`split()`) using delimiters and regex whitespace (`\s`, `\s+`) 
-| 17 | [`seventeen`](./seventeen/) | User input via `Scanner` (`nextInt`, `nextLong`, `nextDouble`, `next`, `nextLine`)
-| 18 | [`eighteen`](./eighteen/) | Static methods, parameters, return types (`getSum`, `sayHi`) 
-| 19 | [`nineteen`](./nineteen/) | Interactive CLI Calculator (Add, Subtract, Multiply, Divide)
+| 02 | [`two`](./Main.java(1)/) | Standard output & escape sequences (`\n`, `\t`) 
+| 03 | [`three`](./Main.java(2)/) | Variable declaration & `double` primitive type
+| 04 | [`four`](./Main.java(3)/) | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations 
+| 05 | [`five`](./Main.java(4)/) | `if-else` branching & logical OR (`\|\|`) condition check 
+| 06 | [`six`](./Main.java(5)/) | `else-if` ladder (Age category classifier) 
+| 07 | [`seven`](./Main.java(6)/) | `switch-case` control flow with expressions 
+| 08 | [`eight`](./Main.java(7)/) | Pre-increment (`++x`) vs Post-increment (`x++`) behavior 
+| 09 | [`nine`](./Main.java(8)/) | `for` loop with conditional divisibility check (`% 3` and `% 5`)
+| 10 | [`ten`](./Main.java(9)/) | `while` loop for stepped series summation 
+| 11 | [`eleven`](./Main.java(10)/) | `do-while` loop structure & increment 
+| 12 | [`twelve`](./Main.java(11)/) | Nested loops for inverted right-triangle pattern 
+| 13 | [`thirteen`](./Main.java(12)/) | 1D Array creation, indexing, access and updates 
+| 14 | [`fourteen`](./Main.java(13)/) | 2D Array matrix traversal, sum and average calculation 
+| 15 | [`fifteen`](./Main.java(14)/) | String class methods (`length`, `toUpperCase`, `toLowerCase`, `charAt`, `equals`) 
+| 16 | [`sixteen`](./Main.java(15)/) | String splitting (`split()`) using delimiters and regex whitespace (`\s`, `\s+`) 
+| 17 | [`seventeen`](./Main.java(16)/) | User input via `Scanner` (`nextInt`, `nextLong`, `nextDouble`, `next`, `nextLine`)
+| 18 | [`eighteen`](./Main.java(17)/) | Static methods, parameters, return types (`getSum`, `sayHi`) 
+| 19 | [`nineteen`](./Main.java(18)/) | Interactive CLI Calculator (Add, Subtract, Multiply, Divide)
 
 ---
 
