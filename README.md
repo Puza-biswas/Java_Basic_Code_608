@@ -23,8 +23,8 @@ This repository contains sequential Java source code solutions and lab practice 
 
 ## Lecture Breakdown & Topics
 
-| Lecture # | Folder | Topic Summary | Code Link |
-|:---:|:---|:---|:---:|
+| Lecture # | Folder | Topic Summary 
+|:---:|:---|:---
 | 01 | [`one`](./one/) | Hello World & basic print output 
 | 02 | [`two`](./two/) | Standard output & escape sequences (`\n`, `\t`) 
 | 03 | [`three`](./three/) | Variable declaration & `double` primitive type
