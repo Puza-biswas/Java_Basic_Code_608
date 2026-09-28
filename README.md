@@ -24,8 +24,8 @@ This repository contains sequential Java source code solutions and lab practice 
 ## Lecture Breakdown & Topics
 
 | Lecture # | Topic Summary 
-|:---:|:---|:---
-| 01 | [`one`]| Hello World & basic print output 
+|:---: |:---
+| 01 | [`one`] | Hello World & basic print output 
 | 02 | [`two`]| Standard output & escape sequences (`\n`, `\t`) 
 | 03 | [`three`] | Variable declaration & `double` primitive type
 | 04 | [`four`] | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations 
