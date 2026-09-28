@@ -26,10 +26,10 @@ This repository contains sequential Java source code solutions and lab practice 
 | Lecture # | Topic Summary 
 |:---: |:---
 | 01 | [`one`] | Hello World & basic print output 
-| 02 | [`two`]| Standard output & escape sequences (`\n`, `\t`) 
+| 02 | [`two`] | Standard output & escape sequences (`\n`, `\t`) 
 | 03 | [`three`] | Variable declaration & `double` primitive type
 | 04 | [`four`] | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations 
-| 05 | [`five`]| `if-else` branching & logical OR (`\|\|`) condition check 
+| 05 | [`five`] | `if-else` branching & logical OR (`\|\|`) condition check 
 | 06 | [`six`] | `else-if` ladder (Age category classifier) 
 | 07 | [`seven`] | `switch-case` control flow with expressions 
 | 08 | [`eight`] | Pre-increment (`++x`) vs Post-increment (`x++`) behavior 
