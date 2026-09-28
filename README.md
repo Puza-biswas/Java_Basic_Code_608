@@ -26,7 +26,7 @@ This repository contains sequential Java source code solutions and lab practice 
 | Lecture # | Folder | Topic Summary 
 |:---:|:---|:---
 | 01 | [`one`](./Main.java/) | Hello World & basic print output 
-| 02 | [`two`](./Main.java(1)/) | Standard output & escape sequences (`\n`, `\t`) 
+| 02 | [`two`](./Main(1).java/) | Standard output & escape sequences (`\n`, `\t`) 
 | 03 | [`three`](./Main.java(2)/) | Variable declaration & `double` primitive type
 | 04 | [`four`](./Main.java(3)/) | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations 
 | 05 | [`five`](./Main.java(4)/) | `if-else` branching & logical OR (`\|\|`) condition check 
