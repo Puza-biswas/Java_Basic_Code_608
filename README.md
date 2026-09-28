@@ -10,10 +10,8 @@ This repository contains sequential Java source code solutions and lab practice 
 
 ## 👤 Author Information
 
-- **Student Name:** Shaik Rezwan Ahmmed Rafi
-- **ID**: 252-35-245
-- **GitHub:** [@Null-Spectra](https://github.com/Null-Spectra)
-- **Repository:** [Java_Basic_Syntax](https://github.com/Null-Spectra/Java_Basic_Syntax)
+- **Student Name:** Puza Biswas
+- **ID**: 252-35-608
 - **Institution:** Daffodil International University (DIU)
 - **Course:** Object Oriented Programming (Lab)
 
@@ -31,7 +29,7 @@ This repository contains sequential Java source code solutions and lab practice 
 
 | Lecture # | Folder | Topic Summary | Code Link |
 |:---:|:---|:---|:---:|
-| 01 | [`one`](./one/) | Hello World & basic print output | [Main.java](./one/main/Main.java) |
+| 01 | [`one`](./one/) | Hello World & basic print output | [Main.java]
 | 02 | [`two`](./two/) | Standard output & escape sequences (`\n`, `\t`) | [Main.java](./two/main/Main.java) |
 | 03 | [`three`](./three/) | Variable declaration & `double` primitive type | [Main.java](./three/main/Main.java) |
 | 04 | [`four`](./four/) | Primitive types (`int`, `float`, `long`, `boolean`, `char`), casting & operations | [Main.java](./four/main/Main.java) |
